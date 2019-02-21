@@ -4,7 +4,7 @@ title: Hi, I'm Jacek
 permalink: /about/
 ---
 
-![](assets/about-jacek-kolanowski)**
+![](assets/about-jacek-kolanowski.jpg)
 
 I'm a scientist and group leader of my research group, the Department of Molecular Probes and Prodrugs.
 
