@@ -4,6 +4,8 @@ title: Hi, I'm Jacek
 permalink: /about/
 ---
 
+![](assets/about-jacek-kolanowski)**
+
 I'm a scientist and group leader of my research group, the Department of Molecular Probes and Prodrugs.
 
 I write about science, research around the world and things I find interesting when I have the time. You can read more about me on <a href="https://www.linkedin.com/in/jacek-kolanowski" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
@@ -19,7 +21,9 @@ I write about science, research around the world and things I find interesting w
 
 🍛 My favourite food is Katsu Chicken Curry.
 
-## The Website
+---
+
+### The Website
 This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
 I'd love to hear your feedback on this site and my work.
 ----

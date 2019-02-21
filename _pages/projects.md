@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Projects
+title: Funded Projects
 permalink: /projects/
 ---
 
@@ -9,10 +9,9 @@ Show off your projects here!
 - [Cool Project]()
 - [New Project]()
 - [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
 
 # Talks
-- How to ????
+- 
+
+# Other events
 
