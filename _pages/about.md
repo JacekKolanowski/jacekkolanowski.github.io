@@ -26,7 +26,7 @@ I write about science, research around the world and things I find interesting w
 ### The Website
 This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
 I'd love to hear your feedback on this site and my work.
-----
+---
 
 <!--
 ## More links
