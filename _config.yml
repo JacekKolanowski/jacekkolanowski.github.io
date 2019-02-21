@@ -3,10 +3,10 @@ title: "Paper Jekyll Theme"
 description: > 
   Write a description of your website here.
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Jacek Kolanowski
+email: kolanowski.jacek@gmail.com
+twitter_username: jlkolanowski
+github_username: jacekkolanowski
 
 baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://deadbeef.me" # the base hostname & protocol for your site
