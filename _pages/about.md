@@ -6,9 +6,11 @@ permalink: /about/
 
 ![Jacek Kolanowski](https://jacekkolanowski.github.io/assets/about-jacek-kolanowski.jpg)
 
-I'm a scientist and group leader of my research group, the Department of Molecular Probes and Prodrugs.
+I'm a scientist and group leader of my research group, the Department of Molecular Probes and Prodrugs. Located in Central Europe with a global network of colleagues, I am passionate about interdisciplinary chemistry research, bringing together the global molecular imaging and chemical biology community, and scientific outreach, dissemination and communications.
 
-I write about science, research around the world and things I find interesting when I have the time. You can read more about me on <a href="https://www.linkedin.com/in/jacek-kolanowski" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+My group performs cutting-edge research at the intersection of chemistry, cellular biology and molecular sensing. We perform design, synthesis and application of unique dual analyte fluorescent probes and bioluminogenic substrates to study the biochemistry of cancer in cells and animals. [Read more on the Projects page](https://jacekkolanowski.github.io/projects).
+
+I write about science, research around the world and ideas I find interesting when I have the time. You can read more about me on <a href="https://www.linkedin.com/in/jacek-kolanowski" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
 
 ----
 
