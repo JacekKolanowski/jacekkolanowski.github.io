@@ -12,7 +12,7 @@ My group performs cutting-edge research at the intersection of chemistry, cellul
 
 I write about science, research around the world and ideas I find interesting when I have the time. You can read more about me on <a href="https://www.linkedin.com/in/jacek-kolanowski" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
 
-----
+---
 
 ## Fun facts
 🇵🇱 I was born in Poland, but I have lived in Germany 🇩🇪, France 🇫🇷 and Australia 🇦🇺
@@ -28,7 +28,7 @@ I write about science, research around the world and ideas I find interesting wh
 ### The Website
 This site is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
 I'd love to hear your feedback on this site and my work.
----
+
 
 <!--
 ## More links
