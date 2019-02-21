@@ -1,15 +1,15 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Jacek Ł Kolanowski"
 description: > 
-  Write a description of your website here.
+  Scientist, Group leader, idea generator and traveller
 
 author: Jacek Kolanowski
 email: kolanowski.jacek@gmail.com
 twitter_username: jlkolanowski
 github_username: jacekkolanowski
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
