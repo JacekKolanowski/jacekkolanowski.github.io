@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Hi, I'm Jacek
+title: Jacek Kolanowski
 permalink: /about/
 ---
 
@@ -19,7 +19,7 @@ I write about science, research around the world and ideas I find interesting wh
 
 🚙 I love driving, especially on long driving holidays. I drove 10,000 km through US National Parks over 2.5 weeks!
 
-⚽️ I used to play for .. in the fifth league in Poland.
+⚽️ I used to play for in the fifth league in Poland.
 
 🍛 My favourite food is Katsu Chicken Curry.
 
