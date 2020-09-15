@@ -4,6 +4,14 @@ title: List of publications
 permalink: /publications/
 ---
 
+A Zarecki, JL Kolanowski, WT Markiewicz, **Microwave-Assisted Catalytic Method for a Green Synthesis of Amides Directly from Amines and Carboxylic Acids.** *Molecules* 2020, 26(8), 1761.
+
+TJ Ozumerzifon, RF Higgins, JP Joyce, JL Kolanowski, AK Rappe, MP Shores, **Evidence for Reagent-induced Spin-State Switching in Tripodal Fe(II) Iminopyridine Complexes.** *Inorganic Chemistry*, 2019, 2(12), 7785.
+
+M Hu, KE Schulze, R Ghildyal, DC Henstridge, JL Kolanowski, EJ New, Y Hong, AC Hsu, PM Hansbro, PAB Wark, MA Bogoyevitch, DA Jans*. **Respiratory Syncytial Virus co-opts host mitochondrial function to favour infectious virus production.** *eLife* 2019, 8, e42448.
+
+P Brennecke, D Rasina, O Aubi, K Herzog, J Landskron, B Cautain, F Vincente, J Quintana, J Mestres, B Stechmann, B Ellinger, J Brea, JL Kolanowski, R Pilarski, M Orzaez, A Pineda-Lucena, L Laraia, F Nami, P Zielenkiewicz, K Paruch, E Hansen, JP von Kries, M Neuenschwander, E Specker, P Bartunek, S Simova, Z Lesnikowski, S Krauss, L Lehtio, U Bilitewski, M Bronstrup, K Tasken, A Jirgenson, H Lickert, MH Clausen, JH Andersen, MJ Vincent, O Genilloud, A Martinez, M Nazare, W Fecke, P Gribbon, **EU-OPENSCREEN: A Novel Collaborative Approach to Facilitate Chemical Biology.** *SLAS Discovery* 2019, 24(3), 298-413.
+
 M Harris, JL Kolanowski, ES O’Neill, C Henoumont, S Laurent, TN Parac-Vogt, EJ New, **Drawing on biology to inspire molecular design: a redox-responsive MRI probe based on Gd(III)-nicotinamide.** *Chemical Communications* 2018, 54, 12986.
 
 Z Lim, DG Smith, JL Kolanowski, RL Mattison, JC Knowles, S-Y Baek, W Chrzanowski, EJ New, **A reversible fluorescent probe for monitoring Ag(I) ions.** *Journal of the Royal Society Interface* 2018, 15, 20180346.
