@@ -7,13 +7,19 @@ permalink: /projects/
 I am head of the Department of Molecular Probes and Prodrugs at IBCH Poznań, and the Centre for High Throughput Screening. My main research objective is to develop versatile strategies to map and control biological interactions in living models using chemistry.
 
 Projects I am working on include:
+
 Fluorescent and bioluminescent molecular probes for sensing pairs of analytes
+
 Non-genetic methods of in situ protein tagging
+
 Multiplexing assays for high-throughput screening
 
 I have many ongoing, multi-disciplinary collaborations with researchers around the world working on:
+
 Molecular probes to detect the redox state and metal ions in cells
+
 Development of molecular probes for super-resolution microscopy
+
 Responsive MR molecular probes
 
 # Latest events
